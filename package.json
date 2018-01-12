@@ -1,0 +1,23 @@
+{
+  "name": "t-deploy",
+  "version": "1.0.0",
+  "description": "A deploy tool for Taf server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafeizizhu/t-deploy.git"
+  },
+  "keywords": [
+    "taf",
+    "deploy"
+  ],
+  "author": "maizhiying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafeizizhu/t-deploy/issues"
+  },
+  "homepage": "https://github.com/dafeizizhu/t-deploy#readme"
+}
